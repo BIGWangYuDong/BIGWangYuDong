@@ -1,1 +1,25 @@
-# README.md
+
+<!--
+**BIGWangYuDong/BIGWangYuDong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+## Hi there, this is Yudong 👋
+
+- 👋 Hi, I’m Yudong Wang (汪昱东).
+- 📖 I am the author of [LQIT](https://github.com/BIGWangYuDong/lqit) & [UWEnhancement](https://github.com/BIGWangYuDong/UWEnhancement), maintainer of [MMDetection](https://github.com/open-mmlab/mmdetection).
+- 🌱 I was a PhD student at School of Electrical and Information Engineering, Tianjin University (TJU), Tianjin, China, under the supervision of Prof. [Jichang Guo](http://seea.tju.edu.cn/info/1014/1453.htm). I also work closely with Prof. [Chongyi Li](https://li-chongyi.github.io/).
+- 👀 I was focused on degraded image enhancement and object detection, especially underwater and foggy scenes during my PhD time.
+- 🔭 I am currently a research intern of [OpenMMLab](https://openmmlab.com/) at [Shanghai AI Laboratory](https://www.shlab.org.cn/), collaborated with [Wenwei Zhang](https://zhangwenwei.cn/). Focusing on Large Language Model (LLM).
+
+<p align="left"><a href="https://github.com/BIGWangYuDong?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=BIGWangYuDong&theme=vue&count_private=true&show_icons=true&hide=issues" alt="github readme stats" height="156"/></a>    <a href="https://github.com/BIGWangYuDong?tab=repositories"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BIGWangYuDong&theme=vue&layout=compact" alt="top langs" height="156"/></a></p>
